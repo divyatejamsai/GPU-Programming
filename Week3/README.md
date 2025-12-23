@@ -41,7 +41,7 @@ Focus on:
 ### **2. Mark Harris — Coalesced Memory Access (GTC Talk)**
 
 🎥 Video:
-[https://developer.nvidia.com/blog/coalesced-memory-access/)](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/)
+[https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/)](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/)
 
 Focus on:
 
@@ -182,7 +182,7 @@ Learn how to profile kernels and interpret key GPU metrics.
 [https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/](https://developer.nvidia.com/blog/using-shared-memory-cuda-cc/)
 
 📄 Bank Conflicts Explained:
-[https://developer.nvidia.com/blog/avoiding-bank-conflicts-cuda/)](https://github.com/Kobzol/hardware-effects-gpu/blob/master/bank-conflicts/README.md)
+[https://github.com/Kobzol/hardware-effects-gpu/blob/master/bank-conflicts/README.md)](https://github.com/Kobzol/hardware-effects-gpu/blob/master/bank-conflicts/README.md)
 
 These two posts alone explain **90% of practical shared memory performance issues**.
 

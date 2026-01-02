@@ -4,7 +4,7 @@ This week focuses on understanding the GPU memory hierarchy, identifying bottlen
 
 ---
 
-## 🎯 **Learning Goals**
+##  **Learning Goals**
 
 * Explain the GPU memory hierarchy and its performance implications
 * Distinguish between **memory-bound** and **compute-bound** kernels
@@ -17,7 +17,7 @@ This week is foundational for all serious GPU work, including ML kernels and sci
 
 ---
 
-## 📘 **Required Resources**
+## **Required Resources**
 
 ### **1. NVIDIA CUDA Programming Guide — Memory Model & Performance**
 
@@ -26,7 +26,7 @@ Read the following sections carefully:
 * **Chapter 5 — Memory Hierarchy**
 * **Chapter 6 — Performance Guidelines**
 
-📄 Link:
+ Link:
 [https://docs.nvidia.com/cuda/cuda-programming-guide/](https://docs.nvidia.com/cuda/cuda-programming-guide/)
 
 Focus on:
@@ -40,7 +40,7 @@ Focus on:
 
 ### **2. Mark Harris — Coalesced Memory Access (GTC Talk)**
 
-🎥 Video:
+Video:
 [https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/)](https://www.nvidia.com/en-us/on-demand/session/gtc24-s62550/)
 
 Focus on:
@@ -55,7 +55,7 @@ Focus on:
 
 Read **Chapter 39**.
 
-📄 Link:
+ Link:
 [https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda](https://developer.nvidia.com/gpugems/gpugems3/part-vi-gpu-computing/chapter-39-parallel-prefix-sum-scan-cuda)
 
 Focus on:
@@ -66,7 +66,7 @@ Focus on:
 
 ---
 
-## 🧠 **Concepts Covered This Week**
+##  **Concepts Covered This Week**
 
 * GPU memory hierarchy:
 
@@ -83,7 +83,7 @@ Focus on:
 
 ---
 
-## 💻 **What You Will Build This Week**
+## **What You Will Build This Week**
 
 You will take simple kernels from Week 2 and **make them faster** by:
 
@@ -96,7 +96,7 @@ This is the first time we will see **order-of-magnitude speedups**.
 
 ---
 
-## 🧪 **Week 3 Assignment (Summary)**
+## **Week 3 Assignment (Summary)**
 
 ### **Task 1 — Memory Access Pattern Experiment**
 
@@ -146,7 +146,7 @@ week3/
 ```
 ---
 
-## 📚 Optional but Highly Recommended (Week 3)
+## Optional but Highly Recommended (Week 3)
 
 ### **1. CUDA Best Practices Guide — Memory Optimizations**
 
@@ -184,7 +184,6 @@ Learn how to profile kernels and interpret key GPU metrics.
 📄 Bank Conflicts Explained:
 [https://github.com/Kobzol/hardware-effects-gpu/blob/master/bank-conflicts/README.md)](https://github.com/Kobzol/hardware-effects-gpu/blob/master/bank-conflicts/README.md)
 
-These two posts alone explain **90% of practical shared memory performance issues**.
 
 
 
